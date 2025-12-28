@@ -1,5 +1,14 @@
-# 💫 About Me:
-👋 Hey there! I’m Vishal 👨‍💻<br><br>🚀 Builder | Learner | Problem-Solver<br>I enjoy turning ideas into working products and learning by building real-world projects.<br><br>🔭 What I’m currently working on<br><br>Building full-stack web applications with a strong focus on logic & clean UI<br><br>Improving my skills in React, Python, and backend fundamentals<br><br>Experimenting with real-world project workflows (not just tutorials)<br><br>🌱 What I’m currently learning<br><br>Advanced JavaScript & React patterns<br><br>Backend integration and data handling<br><br>Writing clean, readable, scalable code<br><br>👯 I’m looking to collaborate on<br><br>Beginner-to-intermediate web projects<br><br>Open-source projects where I can learn + contribute<br><br>Hackathons, mini-projects, or startup-style ideas<br><br>🤝 I’m looking for help with<br><br>Code reviews & best practices<br><br>Improving project structure and architecture<br><br>Guidance from developers who’ve already walked this path<br><br>💡 Fun fact<br><br>I believe logic building is a superpower — once you master logic, any language becomes easy 😄<br><br>❓ Ask me about<br><br>Python basics & logic building<br><br>React fundamentals<br><br>How to learn coding without getting stuck in tutorial hell<br><br>📫 Let’s connect<br><br>If you’re building something interesting, learning seriously, or just want to exchange ideas — let’s talk!
+About Me
+
+👋 Hi, I’m Vishal — a Builder, Learner, and Problem-Solver passionate about building real-world web applications.
+
+🔭 Currently working on full-stack projects, strengthening skills in React, Python, and backend fundamentals, and applying real-world development practices.
+
+🌱 Learning advanced JavaScript/React patterns, backend integration, and writing scalable, clean code.
+
+👯 Open to collaborating on web projects, open source, hackathons, and startup ideas.
+
+💡 Fun fact: Strong logic makes learning any programming language easie
 
 
 ## 🌐 Socials:
