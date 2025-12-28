@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**VENKATAVISHALKOVURU/VENKATAVISHALKOVURU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 💫 About Me:
+# 💫 About Me:
 👋 Hey there! I’m Vishal 👨‍💻<br><br>🚀 Builder | Learner | Problem-Solver<br>I enjoy turning ideas into working products and learning by building real-world projects.<br><br>🔭 What I’m currently working on<br><br>Building full-stack web applications with a strong focus on logic & clean UI<br><br>Improving my skills in React, Python, and backend fundamentals<br><br>Experimenting with real-world project workflows (not just tutorials)<br><br>🌱 What I’m currently learning<br><br>Advanced JavaScript & React patterns<br><br>Backend integration and data handling<br><br>Writing clean, readable, scalable code<br><br>👯 I’m looking to collaborate on<br><br>Beginner-to-intermediate web projects<br><br>Open-source projects where I can learn + contribute<br><br>Hackathons, mini-projects, or startup-style ideas<br><br>🤝 I’m looking for help with<br><br>Code reviews & best practices<br><br>Improving project structure and architecture<br><br>Guidance from developers who’ve already walked this path<br><br>💡 Fun fact<br><br>I believe logic building is a superpower — once you master logic, any language becomes easy 😄<br><br>❓ Ask me about<br><br>Python basics & logic building<br><br>React fundamentals<br><br>How to learn coding without getting stuck in tutorial hell<br><br>📫 Let’s connect<br><br>If you’re building something interesting, learning seriously, or just want to exchange ideas — let’s talk!
 
 
@@ -26,4 +18,4 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=VENKATAVISHALKOVURU&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
